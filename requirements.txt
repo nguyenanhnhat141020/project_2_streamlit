@@ -1,13 +1,1 @@
-pandas-profiling
-demoji
-pywaffle
-wordcloud
-pyvi
-pyspark
-scikit-learn
-numpy
-pandas
-underthesea
-gensim
-jieba
-emoji
+
