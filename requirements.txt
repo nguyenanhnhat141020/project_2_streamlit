@@ -1,0 +1,14 @@
+streamlit==1.18.0
+scikit-learn
+numpy
+pandas
+underthesea
+gensim==4.3.1
+python==3.9.16
+jieba
+emoji
+pandas-profiling==3.6.6
+demoji
+pywaffle
+wordcloud
+pyvi
