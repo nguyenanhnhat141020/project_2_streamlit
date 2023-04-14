@@ -1,3 +1,9 @@
+pandas-profiling
+demoji
+pywaffle
+wordcloud
+pyvi
+pyspark
 scikit-learn
 numpy
 pandas
@@ -5,10 +11,3 @@ underthesea
 gensim
 jieba
 emoji
-pandas-profiling
-demoji
-pywaffle
-wordcloud
-pyvi
-pyspark
-click<=8.0.4
