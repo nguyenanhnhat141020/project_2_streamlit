@@ -1,4 +1,4 @@
-streamlit==1.18.0
+streamlit
 scikit-learn
 numpy
 pandas
@@ -6,7 +6,7 @@ underthesea
 gensim
 jieba
 emoji
-pandas-profiling==3.6.6
+pandas-profiling
 demoji
 pywaffle
 wordcloud
