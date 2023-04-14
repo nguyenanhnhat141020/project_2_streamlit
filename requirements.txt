@@ -3,8 +3,7 @@ scikit-learn
 numpy
 pandas
 underthesea
-gensim==4.3.1
-python==3.9.16
+gensim
 jieba
 emoji
 pandas-profiling==3.6.6
