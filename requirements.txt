@@ -8,3 +8,4 @@ demoji
 pyvi
 pywaffle
 wordcloud
+pyspark
