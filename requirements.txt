@@ -11,3 +11,4 @@ pywaffle
 wordcloud
 pyvi
 pyspark
+click<=8.0.4
