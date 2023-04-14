@@ -5,3 +5,4 @@ jieba
 emoji
 pandas-profiling
 demoji
+pyvi
