@@ -6,3 +6,4 @@ emoji
 pandas-profiling
 demoji
 pyvi
+pywaffle
