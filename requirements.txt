@@ -7,3 +7,4 @@ pandas-profiling
 demoji
 pyvi
 pywaffle
+wordcloud
